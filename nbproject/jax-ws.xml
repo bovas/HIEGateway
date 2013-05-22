@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services/>
+  <clients>
+    <client name="PartnerHIEService">
+      <wsdl-url>http://kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc?wsdl</wsdl-url>
+      <local-wsdl-file>kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc.wsdl</local-wsdl-file>
+      <package-name forceReplace="true">com.glenwood.glaceemr.hie.khie.stub</package-name>
+      <catalog-file>catalog.xml</catalog-file>
+      <use-dispatch>true</use-dispatch>
+      <wsimport-options>
+        <wsimport-option>
+          <wsimport-option-name>extension</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>verbose</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>wsdlLocation</wsimport-option-name>
+          <wsimport-option-value>http://kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc?wsdl</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>xnocompile</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>xendorsed</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>package</wsimport-option-name>
+          <wsimport-option-value>com.glenwood.glaceemr.hie.khie.stub</wsimport-option-value>
+        </wsimport-option>
+      </wsimport-options>
+    </client>
+  </clients>
+</jax-ws>

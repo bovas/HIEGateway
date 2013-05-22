@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/KHIE/PartnerHIEService_SampleData_Open.wsdl" uri="src/conf/xml-resources/web-service-references/PartnerHIEService_SampleData_Open/wsdl/PartnerHIEService_SampleData_Open.wsdl"/>
+    <system systemId="file:/D:/KHIE/PartnerHIEService.wsdl" uri="src/conf/xml-resources/web-service-references/PartnerHIEService/wsdl/PartnerHIEService.wsdl"/>
+    <system systemId="file:/C:/Users/gsivashanmugam/Desktop/hie_message.xsd" uri="src/conf/xml-resources/jaxb/hie_message/hie_message.xsd"/>
+    <system systemId="file:/D:/KHIE/PartnerHIEService.svc.xml" uri="src/conf/xml-resources/web-service-references/PartnerHIEService.svc/wsdl/PartnerHIEService.svc.xml.wsdl"/>
+    <system systemId="file:/D:/KHIE/PartnerHIEService.xml" uri="src/conf/xml-resources/web-service-references/PartnerHIEService/wsdl/PartnerHIEService.xml.wsdl"/>
+    <system systemId="http://kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc?wsdl" uri="src/conf/xml-resources/web-service-references/PartnerHIEService/wsdl/kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc.wsdl"/>
+</catalog>

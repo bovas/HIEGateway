@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc?wsdl" uri="wsdl/kentuckyhie.acsmessaging.com/PartnerHIEService/PartnerHIEService.svc.wsdl"/>
+</catalog>
